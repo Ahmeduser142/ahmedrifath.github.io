@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahmed Rifath | Mechatronics Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #003366;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    header p {
+      margin: 5px 0;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      margin-top: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #003366;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      padding: 5px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #003366;
+      color: #fff;
+      margin-top: 20px;
+    }
+    a {
+      color: #003366;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ahmed Rifath</h1>
+    <p>Mechatronics Engineer | Industrial Automation Specialist</p>
+    <p>📞 +971 55 4828 758 | ✉️ rifath142@gmail.com | <a href="https://www.linkedin.com/in/ahmedrifath" target="_blank" style="color:white;">LinkedIn</a></p>
+  </header>
+
+  <section>
+    <h2>Profile</h2>
+    <p>Dedicated Mechatronics Engineer with expertise in industrial automation, PLC systems, and preventive maintenance. Skilled in Siemens, Beckhoff, and SEW systems with proven success in reducing downtime and improving operational efficiency.</p>
+  </section>
+
+  <section>
+    <h2>Core Skills</h2>
+    <ul>
+      <li>PLC (Siemens, Beckhoff, Delta, Omron, Mitsubishi)</li>
+      <li>SCADA (WinCC), HMI, VFDs</li>
+      <li>Maintenance Planning, CMMS, Root Cause Analysis</li>
+      <li>Profibus & AS-I Bus Troubleshooting</li>
+      <li>Electrical Systems: MV/LV Power Distribution, Switchgear</li>
+      <li>Shop Floor Management & Safety Compliance</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Work Experience</h2>
+    <ul>
+      <li><b>Senior Foreman – Mechatronics</b>, Dubai Maritime City (2024 – Present)<br> Led ship lift & transfer system maintenance, Siemens PLCs & VFDs, reduced downtime by 20%.</li>
+      <li><b>Technical Supervisor – Maintenance</b>, Landmark Group, Dubai (2023 – 2024)<br> Maintained conveyors & multishuttle systems, Siemens S7-400, Beckhoff PLCs, improved OEE via CMMS.</li>
+      <li><b>PLC Programmer</b>, WinPro Automation, India (2022)<br> Programmed PLCs & HMIs, integrated automation solutions.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>MBA (Operations Management), Manipal Academy of Higher Education (2024 – 2026, ongoing)</li>
+      <li>B.E. Mechatronics Engineering, Anna University (2017 – 2021, First Class)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Certifications</h2>
+    <ul>
+      <li>Beckhoff TwinCAT 2 Training (2024)</li>
+      <li>Master Diploma in Industrial Automation (2021)</li>
+      <li>Python Face Recognition App – GUVI (2021)</li>
+      <li>TCS iON Career Edge (2020)</li>
+      <li>Machine Learning Internship – Pantech ProEd (2019)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects & Publications</h2>
+    <ul>
+      <li>Industrial Garment Folding Machine (Journal Publication & National Conference)</li>
+      <li>IoT-based Long Range Robot – AI Security Surveillance</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Additional Information</h2>
+    <ul>
+      <li>Participant – Guinness World Record Event (Online Programming Lesson)</li>
+      <li>Winner – Technical Symposium, Care School of Engineering</li>
+      <li>Finalist – DST & Texas Instruments India Innovation Challenge 2019</li>
+      <li>Workshops: AI, IIoT, Deep Learning, Industry 4.0, ISRO Collaboration</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Ahmed Rifath | Mechatronics Engineer</p>
+  </footer>
+</body>
+</html>
